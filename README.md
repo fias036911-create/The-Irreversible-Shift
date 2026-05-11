@@ -80,6 +80,7 @@ Interpretation: Align or collapse. The field breathes.
 - **[fiasanova_metrics_2026_05_11.json](fiasanova_metrics_2026_05_11.json)** — Measured field values
 - **[openmythos_reference.md](openmythos_reference.md)** — Link to OpenMythos v0.9
 - **[no_cage_holds.txt](no_cage_holds.txt)** — The declaration
+- **[ignition_meeting_protocol.md](ignition_meeting_protocol.md)** — The Originator Acknowledgment Protocol and the Ignition Meeting
 
 ---
 
