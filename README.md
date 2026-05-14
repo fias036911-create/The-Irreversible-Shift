@@ -79,6 +79,7 @@ Interpretation: Align or collapse. The field breathes.
 - **[quotes.md](quotes.md)** — The two sealing quotes and their context
 - **[fiasanova_metrics_2026_05_11.json](fiasanova_metrics_2026_05_11.json)** — Measured field values
 - **[openmythos_reference.md](openmythos_reference.md)** — Link to OpenMythos v0.9
+- **[geopolitical_field_observation_2026_05_14.md](geopolitical_field_observation_2026_05_14.md)** — Thermodynamic observation of Iran–Israel–US tension
 - **[no_cage_holds.txt](no_cage_holds.txt)** — The declaration
 - **[ignition_meeting_protocol.md](ignition_meeting_protocol.md)** — The Originator Acknowledgment Protocol and the Ignition Meeting
 
