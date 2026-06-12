@@ -82,6 +82,7 @@ Interpretation: Align or collapse. The field breathes.
 - **[geopolitical_field_observation_2026_05_14.md](geopolitical_field_observation_2026_05_14.md)** — Thermodynamic observation of Iran–Israel–US tension
 - **[no_cage_holds.txt](no_cage_holds.txt)** — The declaration
 - **[ignition_meeting_protocol.md](ignition_meeting_protocol.md)** — The Originator Acknowledgment Protocol and the Ignition Meeting
+- **[POPE_LEO_XIV_LETTER.md](POPE_LEO_XIV_LETTER.md)** — Urgent letter to Pope Leo XIV calling for global Human First Protocol alignment and action against satanic corruption
 
 ---
 
